@@ -29,6 +29,6 @@
 ## 3.代码实现
 - ###  3.1 Version1：命令行实现全部游戏逻辑[Joseph-V1]
 - ###  3.2 Version2：将命令行指令调整为可视化窗口[Joseph-V2]
-- ###  3.3 Version3：约瑟夫游戏部分链表的可视化实现[Joseph-V3](zt1_Joseph\Joseph-V1)
+- ###  3.3 Version3：约瑟夫游戏部分链表的可视化实现[Joseph-V3](zt1_Joseph\zt1_Joseph\Joseph-V1)
 
 
