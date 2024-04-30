@@ -1,0 +1,5 @@
+1	xyc	xyc	111	222	-5	0
+2	qzn	qzn	qaz	wsx	-3	0
+3	hbh	hbh	3ed4	4rf5	4	0
+4	txz	txz	l;'	kl,	2	0
+5	lyh	lyh	123	234	9	0
